@@ -49,6 +49,10 @@ background-color: #85DE77;
   color: #373a3c;
 }
 
+#contacto{
+  background-color: #F9FFCB 
+}
+
 @media (max-width: 768px) {
   #Contacto form label {
     font-weight: 400;
