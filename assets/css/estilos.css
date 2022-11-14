@@ -50,7 +50,11 @@ background-color: #85DE77;
 }
 
 #contacto{
-  background-color: #F9FFCB 
+  background-color: #F9FFCB ;
+}
+
+.form-group label{
+  color: #FF756D;
 }
 
 @media (max-width: 768px) {
