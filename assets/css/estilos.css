@@ -17,6 +17,10 @@ font-size: 30px;
 color: #85DE77;
 }
 
+#Quien-soy{
+  background-color: #F9FFCB;
+}
+
 #Hero-Section {
   background-image: url("../img/bg-angel.jpg");
   background-repeat: no-repeat;
@@ -25,9 +29,13 @@ color: #85DE77;
   color: black;
 }
 
-/* Mis trabajos */
+/* Mi colección */
 
-#Mis-trabajos .image-top {
+/* #Mi-coleccion{
+background-color: #85DE77;
+} */
+
+#Mi-coleccion .image-top {
   height: 0px;
   background-repeat: no-repeat;
   background-size: cover;
